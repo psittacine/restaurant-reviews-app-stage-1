@@ -3,6 +3,7 @@
 ## Project for Udacity's [Front-End Web Developer Nanodegree Program](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 
 :link: [View Live Project](https://psittacine.github.io/restaurant-reviews-app-stage-1/)
+<!-- Alternate deployment:  https://restaurant-reviews-app-stage-1-ll.netlify.com/ -->
 
 #### Project Overview
 
